@@ -6,4 +6,4 @@ services:
     container_name: swagger-editor
     ports:
       - 8118:8080
-    restart: always
+#    restart: always
